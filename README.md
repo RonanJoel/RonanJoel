@@ -55,10 +55,6 @@ I’m passionate about web development and DevOps with over 5 years of experienc
 
 ---
 
-### 📂 Featured Projects
-
-- **[Portfolio Website](https://myportfolio.com)** — A minimalist, responsive personal portfolio showcasing my work and skills.
-- **[Litos Solutions](https://litossolutions.com)** — Technical support and cloud solutions provider.
 
 ---
 
@@ -67,8 +63,6 @@ I’m passionate about web development and DevOps with over 5 years of experienc
 <p align="center">
   <a href="https://www.linkedin.com/in/joel-arce-c" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:ronanjoel28@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://myportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"></a>
-  <a href="https://github.com/your-github-username" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
-</p>
+  </p>
 
 -->
